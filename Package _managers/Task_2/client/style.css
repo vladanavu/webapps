@@ -1,0 +1,17 @@
+header {
+    width: 100%;
+    background-color: lightcoral;
+
+    margin:auto;
+}
+
+h1{
+    color:white;
+    text-align:center;
+}
+
+.section {
+    background-color: gray;
+    margin:auto;
+    color:white;
+}
